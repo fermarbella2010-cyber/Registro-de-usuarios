@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: rgba(157, 14, 252, 0.404);
+}
+
+.caja {
+    border: 1px solid rgb(37, 80, 197);
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+}
+
+input {
+    width: 250px;
+    padding: 8px;
+}
+
+button {
+    padding: 10px 25px;
+    margin-left: 180px;
+    cursor: pointer;
+}
